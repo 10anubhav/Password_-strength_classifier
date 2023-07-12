@@ -13,7 +13,7 @@ This is a simple password strength checker implemented in Python using the Tkint
 
 Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repository.git`
+1. Clone the repository: `https://github.com/10anubhav/Password_strength_classifier`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Place the password dataset file (`data.csv`) in the same directory as the script.
 
