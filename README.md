@@ -48,4 +48,13 @@ References
 - [pandas Documentation](https://pandas.pydata.org/docs/)
 - [scikit-learn Documentation](https://scikit-learn.org/stable/documentation.html)
 
+# OUTPUT
+
+
+
+![Screenshot 2023-07-12 151948](https://github.com/10anubhav/Password_strength_classifier/assets/126901825/5de28455-17a0-4a3b-939b-3a0af11a8c78)
+
+![Screenshot 2023-07-12 152025](https://github.com/10anubhav/Password_strength_classifier/assets/126901825/49dab525-54b7-4fbb-b5ac-dfd181f8f775)
+
+![Screenshot 2023-07-12 152305](https://github.com/10anubhav/Password_strength_classifier/assets/126901825/daa1a05d-2338-4712-9130-52e7d586547f)
 
