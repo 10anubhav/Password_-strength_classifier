@@ -39,7 +39,7 @@ The program uses a logistic regression model trained on the password dataset to 
 
 Acknowledgements
 
-- The password dataset used in this project is sourced from [insert source].
+- The password dataset used in this project is sourced from [https://www.kaggle.com/datasets/bhavikbb/password-strength-classifier-dataset].
 - The machine learning model implementation is based on scikit-learn's logistic regression classifier.
 
 References
